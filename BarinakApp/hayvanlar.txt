@@ -1,0 +1,10 @@
+a242f746-207c-4aeb-99b0-24db8f6d53e7;karabaş;Köpek;7;false
+e7c5c59a-028c-4c78-b50f-c5d556099c8c;tekir;Kedi;3;false
+dd8833af-e42b-4071-b9e5-ca9f5b143ba0;pakize;Kedi;1;false
+7b86f495-4223-427e-9485-9945f548ecbb;sila;Kedi;8;true
+37f63148-ccc2-4127-bd10-8e836622ca54;leon;Köpek;5;false
+b0fe44ed-4482-4cad-918e-71a39dfac22e;kartopu;Kedi;8;false
+29a1f3d1-0adb-41e2-b2c7-a97260cea171;çiko;Köpek;11;false
+d80c7e7a-095c-41bb-b4b1-a6252a18c97c;gümüş;Köpek;4;true
+e12bc063-2418-4f6a-a457-ab0ced4fbd4e;kaymak;Köpek;6;false
+97454dcb-f243-4e95-bf5c-3adca8ea9d2a;duman;Kedi;3;true
